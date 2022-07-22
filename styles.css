@@ -1,0 +1,26 @@
+
+#menuNav a{
+    color: #ffff;
+    font-weight: bold;
+}
+
+.bg-primary{
+    background-color: #256ebd !important;
+}
+
+
+h1{
+    background-color: #50b4ea;
+    color: #ffff;
+    text-align: center;
+    padding: 20px;
+}
+
+h3{
+    color: rgb(67, 130, 189);
+}
+
+#menuNav a:hover{
+    color: aqua;
+
+}
